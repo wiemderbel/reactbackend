@@ -1,0 +1,12 @@
+h1{
+    font-size:large ;
+    color: aqua;
+}
+.im{
+    font-size: larger;
+    color: blueviolet;
+    width: 100%;
+    height: 100%;
+    font-style: oblique;
+    font-weight: 400;
+}
